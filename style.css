@@ -1,7 +1,7 @@
 body { 
     font-family: Arial, sans-serif; 
     margin: 20px; 
-    background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/08/Fruit-Wallpaper-HQ.jpg); 
+    background-image: url(fruit.jpeg.jpg); 
     background-size: cover; 
     color: white; /* Ensure text is visible over the background image */
 }
